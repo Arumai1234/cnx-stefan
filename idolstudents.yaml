@@ -1,0 +1,6 @@
+Name	Description	Type	Scope	Length	Required	Default
+grade	The marks/grade that students achieved	Float	Global	n/a	TRUE	0
+students_name	The register name of the student	String	Global	27 Char	TRUE	0
+students_class	CN1	String	Global	4 Char	TRUE	0
+assesment_date	01/12/2022	String	Global	10 Char	TRUE	0
+oberservations	Any additional details that may be of importance	String	Global	256 Char	FALSE	0
